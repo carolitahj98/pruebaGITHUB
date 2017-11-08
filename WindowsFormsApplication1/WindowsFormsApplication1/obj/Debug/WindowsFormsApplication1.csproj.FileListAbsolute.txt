@@ -1,1 +1,2 @@
 C:\Users\cherrera\Desktop\pruebaGITHUB\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\erubio\Desktop\pruebaGITHUB\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
